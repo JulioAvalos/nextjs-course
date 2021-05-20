@@ -1,4 +1,3 @@
-
 function AboutPage () {
     return (
         <div>
